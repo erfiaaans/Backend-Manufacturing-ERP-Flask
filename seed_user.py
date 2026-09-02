@@ -72,3 +72,4 @@ def seed_users():
         print(f"\n{created_count} user(s) created successfully.")
 if __name__ == "__main__":
     seed_users()
+    
