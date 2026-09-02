@@ -46,3 +46,4 @@ class User(db.Model):
             self.password_hash,
             password
         )   
+        
