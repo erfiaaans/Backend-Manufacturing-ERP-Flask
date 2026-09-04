@@ -45,3 +45,4 @@ class Product (db.Model):
         onupdate=datetime.utcnow,
         nullable=False
     )
+    

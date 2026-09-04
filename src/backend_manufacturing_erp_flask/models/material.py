@@ -47,3 +47,4 @@ class Material(db.Model):
         onupdate=datetime.utcnow,
         nullable=False
     )
+    

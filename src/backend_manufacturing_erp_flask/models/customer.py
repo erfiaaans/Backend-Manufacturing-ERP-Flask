@@ -41,3 +41,4 @@ class Customer(db.Model):
         onupdate=datetime.utcnow,
         nullable=False
     )
+    

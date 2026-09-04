@@ -31,3 +31,4 @@ class Warehouse (db.Model):
         onupdate=datetime.utcnow,
         nullable=False
     )
+    

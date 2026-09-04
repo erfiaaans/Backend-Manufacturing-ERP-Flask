@@ -40,3 +40,4 @@ class Supplier(db.Model):
         onupdate=datetime.utcnow,
         nullable=False
     )
+    
