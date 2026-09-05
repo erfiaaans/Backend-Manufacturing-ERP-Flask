@@ -4,7 +4,9 @@ from .material import Material
 from .supplier import Supplier
 from .customer import Customer
 from .warehouse import Warehouse
-# from app.models.inventory import Inventory
+from .inventory import Inventory
+from .stock_movement import StockMovement
+
 # from app.models.purchase import Purchase
 # from app.models.bom import BOM
 # from app.models.production import Production
